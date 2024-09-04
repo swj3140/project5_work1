@@ -45,3 +45,10 @@ git remote rm origin
 4. github 데이터 넣기
 git push -u origin main
 git push
+
+--------------------------
+clone 하기
+
+--------------------------
+파일 제외 시키기
+-gitignore
